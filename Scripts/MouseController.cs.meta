@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 11574fa4ee226b74f8c1343bf2fcbc2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - groundCheckTransform: {instanceID: 0}
+  - jetpack: {instanceID: 0}
+  - coinIconTexture: {instanceID: 0}
+  - coinCollectSound: {fileID: 8300000, guid: 30974858f921317489f5b41bcd2bebbd, type: 3}
+  - jetpackAudio: {instanceID: 0}
+  - footstepsAudio: {instanceID: 0}
+  - parallax: {instanceID: 0}
+  - coinsLabel: {instanceID: 0}
+  - restartDialog: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
